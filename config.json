@@ -1,0 +1,452 @@
+{
+  "business": {
+    "name": "Milton Inn Hotel Salinas",
+    "short_name": "Milton Inn Hotel Salinas",
+    "tagline": "Milton Inn Hotel Salinas · Ecuador",
+    "description": "Milton Inn Hotel Salinas: pileta, parrilla, WiFi y la mejor ubicación en Ecuador.",
+    "category": "Hospedaje",
+    "followers": 0
+  },
+  "hero": {
+    "video": "videos/city-video.mp4",
+    "poster": "fotos/foto-01.webp",
+    "eyebrow": "Ecuador · MANZANA 124 SOLAR 2",
+    "title_line1": "Sentite como en casa en",
+    "title_em": "Milton Inn Hotel Salinas",
+    "title_line2": "",
+    "subtitle": "WiFi, cocina equipada, terraza y pileta. Todo cerca."
+  },
+  "location": {
+    "address": "MANZANA 124 SOLAR 2, 090148 Salinas, Ecuador",
+    "district": "Ecuador",
+    "city": "Ecuador",
+    "province": "",
+    "country": "Argentina",
+    "destination_type": "city",
+    "map_query": "MANZANA 124 SOLAR 2, 090148 Salinas, Ecuador, Ecuador",
+    "map_embed": "https://maps.google.com/maps?q=MANZANA+124+SOLAR+2%2C+090148+Salinas%2C+Ecuador%2C+Ecuador&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "description": "Ecuador. Cerca de los mejores puntos turísticos.",
+    "video": "videos/city-video.mp4"
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/59342771755",
+    "phone": "+59342771755",
+    "email": ""
+  },
+  "social": {
+    "instagram": "https://www.google.com/maps/place/MILTON+INN+HOTEL+-+SALINAS/data=!4m10!3m9!1s0x902e0e050959e06b:0xda7a5f3ed56fbff2!5m2!4m1!1i2!8m2!3d-2.2037625!4d-80.9778292!16s%2Fg%2F11clgkhx3t!19sChIJa-BZCQUOLpAR8r9v1T5feto?authuser=0&hl=es&g_ep=EgoyMDI2MTEwNC4wIJJjKgBIAVAD&rclk=1",
+    "place_url": "https://www.google.com/maps/place/MILTON+INN+HOTEL+-+SALINAS/data=!4m10!3m9!1s0x902e0e050959e06b:0xda7a5f3ed56fbff2!5m2!4m1!1i2!8m2!3d-2.2037625!4d-80.9778292!16s%2Fg%2F11clgkhx3t!19sChIJa-BZCQUOLpAR8r9v1T5feto?authuser=0&hl=es&g_ep=EgoyMDI2MTEwNC4wIJJjKgBIAVAD&rclk=1",
+    "website": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "about": {
+    "eyebrow": "Quiénes somos",
+    "title": "Un poco de Milton Inn Hotel Salinas.",
+    "paragraphs": [
+      "Vení a Milton Inn Hotel Salinas y descubrí Ecuador desde un hostel con onda. Tenemos pileta, parrilla, cocina equipada, WiFi y todo lo que necesitás para sentirte en casa."
+    ],
+    "photos": [
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      }
+    ]
+  },
+  "trust_bar": [
+    "Disponibilidad actualizada al momento",
+    "Directo al hostel, sin comisiones",
+    "Te ayudamos a organizar tu viaje"
+  ],
+  "amenities": [
+    {
+      "key": "bed",
+      "title": "Para dormir bien",
+      "description": "Colchones que hacen que no quieras levantarte.",
+      "icon": "bed"
+    },
+    {
+      "key": "wifi",
+      "title": "WiFi libre",
+      "description": "Sin límite, sin contraseña rara, conectate y listo.",
+      "icon": "wifi"
+    },
+    {
+      "key": "pin",
+      "title": "Zona céntrica",
+      "description": "Restaurantes, bares y todo a pocas cuadras.",
+      "icon": "pin"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Joaquín H.",
+      "rating": 5,
+      "text": "Excelente lugar para descansar después de recorrer. Recomendadísimo, volvemos seguro."
+    },
+    {
+      "author": "Valentina P.",
+      "rating": 5,
+      "text": "El lugar es hermoso y está cerca de todo. Los anfitriones nos ayudaron con cada consulta."
+    },
+    {
+      "author": "Lucía M.",
+      "rating": 5,
+      "text": "Nos atendieron de diez desde antes de llegar. La ubicación es inmejorable y el ambiente muy copado."
+    },
+    {
+      "author": "Carolina R.",
+      "rating": 5,
+      "text": "Súper recomendable. Te sentís como en casa desde el primer momento. Volveremos sin dudas."
+    }
+  ],
+  "testimonials_meta": {
+    "source": "demo"
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "fotos/foto-01.webp",
+        "alt": "Vista del alojamiento"
+      },
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      },
+      {
+        "src": "fotos/foto-04.webp",
+        "alt": "Zona de descanso"
+      },
+      {
+        "src": "fotos/foto-05.webp",
+        "alt": "Pileta y jardín"
+      },
+      {
+        "src": "fotos/foto-06.webp",
+        "alt": "Cocina del hostel"
+      },
+      {
+        "src": "fotos/foto-07.webp",
+        "alt": "Habitaciones"
+      },
+      {
+        "src": "fotos/foto-08.webp",
+        "alt": "Terraza"
+      },
+      {
+        "src": "fotos/foto-09.webp",
+        "alt": "Entrada principal"
+      },
+      {
+        "src": "fotos/foto-10.webp",
+        "alt": "Áreas verdes"
+      },
+      {
+        "src": "fotos/foto-11.webp",
+        "alt": "Comedor"
+      },
+      {
+        "src": "fotos/foto-12.webp",
+        "alt": "Living común"
+      }
+    ],
+    "videos": []
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "amount": "Consultar",
+    "period": "SEGÚN TEMPORADA",
+    "title": "Escribinos y te enviamos los precios actualizados según fechas.",
+    "cta_text": "Consultar precios"
+  },
+  "faq": [
+    {
+      "question": "¿Tienen WiFi?",
+      "answer": "Sí, WiFi gratis en todo el lugar. Subí las fotos sin problema."
+    },
+    {
+      "question": "¿La zona es segura?",
+      "answer": "Sí, es una zona tranquila. Los viajeros la recomiendan."
+    },
+    {
+      "question": "¿Hay lugar para guardar equipaje?",
+      "answer": "Sí, podés dejar las valijas antes del check-in o después del check-out."
+    },
+    {
+      "question": "¿Hay toallas?",
+      "answer": "Consultanos, generalmente tenemos para prestar."
+    },
+    {
+      "question": "¿Está cerca del centro?",
+      "answer": "Escribinos y te confirmamos la distancia exacta y cómo llegar desde el terminal o el aeropuerto."
+    }
+  ],
+  "footer": {
+    "description": "Milton Inn Hotel Salinas",
+    "copyright": "© 2026 Milton Inn Hotel Salinas. Todos los derechos reservados.",
+    "made_by": "Sitio hecho por Aizly"
+  },
+  "i18n": {
+    "en": {
+      "business": {
+        "name": "Milton Inn Hotel Salinas",
+        "short_name": "Milton Inn Hotel Salinas",
+        "tagline": "Milton Inn Hotel Salinas · Accommodation",
+        "description": "Everything you need to travel easy, at Milton Inn Hotel Salinas.",
+        "category": "Accommodation"
+      },
+      "hero": {
+        "video": "videos/city-video.mp4",
+        "poster": "fotos/foto-01.webp",
+        "eyebrow": "Ecuador · MANZANA 124 SOLAR 2",
+        "title_line1": "Feel at home at",
+        "title_em": "Milton Inn Hotel Salinas",
+        "title_line2": "",
+        "subtitle": "Your base to explore Ecuador with everything you need."
+      },
+      "about": {
+        "eyebrow": "Everything about us",
+        "title": "Let us tell you about Milton Inn Hotel Salinas.",
+        "paragraphs": [
+          "Milton Inn Hotel Salinas awaits you in Ecuador with clean rooms, pool, BBQ, full kitchen and free WiFi. A quiet place to rest and from where you can explore the whole area."
+        ],
+        "photos": [
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Interior del hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Espacios comunes"
+          }
+        ]
+      },
+      "location": {
+        "description": "Ecuador. Close to restaurants, bars, and everything you need."
+      },
+      "gallery": {
+        "images": [
+          {
+            "src": "fotos/foto-01.webp",
+            "alt": "View of the property"
+          },
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Inside the hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Common areas"
+          },
+          {
+            "src": "fotos/foto-04.webp",
+            "alt": "Relaxation area"
+          },
+          {
+            "src": "fotos/foto-05.webp",
+            "alt": "Pool and garden"
+          },
+          {
+            "src": "fotos/foto-06.webp",
+            "alt": "Hostel kitchen"
+          },
+          {
+            "src": "fotos/foto-07.webp",
+            "alt": "Rooms"
+          },
+          {
+            "src": "fotos/foto-08.webp",
+            "alt": "Terrace"
+          },
+          {
+            "src": "fotos/foto-09.webp",
+            "alt": "Main entrance"
+          },
+          {
+            "src": "fotos/foto-10.webp",
+            "alt": "Green areas"
+          },
+          {
+            "src": "fotos/foto-11.webp",
+            "alt": "Dining room"
+          },
+          {
+            "src": "fotos/foto-12.webp",
+            "alt": "Common lounge"
+          }
+        ]
+      },
+      "pricing": {
+        "eyebrow": "Prices",
+        "amount": "Ask us",
+        "period": "Varies by season",
+        "title": "Message us for updated prices based on your dates.",
+        "cta_text": "Check prices"
+      },
+      "faq": [
+        {
+          "question": "Is the area safe?",
+          "answer": "Yes, it's a quiet neighborhood. Travelers recommend it."
+        },
+        {
+          "question": "How far is the beach/downtown?",
+          "answer": "Just a few blocks, about a 5-minute walk."
+        },
+        {
+          "question": "Can I leave my luggage before check-in?",
+          "answer": "Of course! Drop your bags and come back later. We'll keep them safe."
+        },
+        {
+          "question": "What time can I check in and out?",
+          "answer": "We're flexible with times. Drop us a message and we'll work it out."
+        },
+        {
+          "question": "How do I get around the city?",
+          "answer": "Reach out and we'll tell you the best transport options and what to visit nearby."
+        }
+      ],
+      "trust_bar": [
+        "Same-day response guaranteed",
+        "Direct booking, best price",
+        "We know the area, we'll share our tips"
+      ],
+      "amenities": [
+        {
+          "title": "Comfortable rooms",
+          "description": "Everything you need to rest after a day of exploring.",
+          "icon": "bed"
+        },
+        {
+          "title": "Free WiFi",
+          "description": "Internet everywhere on the property.",
+          "icon": "wifi"
+        },
+        {
+          "title": "Great location",
+          "description": "Steps away from everything you need.",
+          "icon": "pin"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "Emma L.",
+          "rating": 5,
+          "text": "Highly recommended. Feels like home away from home. We'll definitely be back."
+        },
+        {
+          "author": "Peter D.",
+          "rating": 5,
+          "text": "Perfect spot to unwind. Quiet, clean, with lovely shared spaces to meet travelers."
+        },
+        {
+          "author": "Laura C.",
+          "rating": 5,
+          "text": "Traveled solo and felt super safe. Met great people and enjoyed every minute."
+        },
+        {
+          "author": "James W.",
+          "rating": 5,
+          "text": "Traveling with friends and couldn't have picked a better place. Clean, comfy and welcoming."
+        }
+      ],
+      "footer": {
+        "description": "Milton Inn Hotel Salinas",
+        "copyright": "© 2026 Milton Inn Hotel Salinas. All rights reserved.",
+        "made_by": "Site by Aizly"
+      }
+    }
+  },
+  "schema_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Hotel",
+        "name": "Milton Inn Hotel Salinas",
+        "description": "Milton Inn Hotel Salinas ofrece todo lo que necesitás para tu estadía en Ecuador.",
+        "url": "",
+        "telephone": "+59342771755",
+        "email": "",
+        "image": "",
+        "sameAs": [
+          "https://www.google.com/maps/place/MILTON+INN+HOTEL+-+SALINAS/data=!4m10!3m9!1s0x902e0e050959e06b:0xda7a5f3ed56fbff2!5m2!4m1!1i2!8m2!3d-2.2037625!4d-80.9778292!16s%2Fg%2F11clgkhx3t!19sChIJa-BZCQUOLpAR8r9v1T5feto?authuser=0&hl=es&g_ep=EgoyMDI2MTEwNC4wIJJjKgBIAVAD&rclk=1"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "MANZANA 124 SOLAR 2, 090148 Salinas, Ecuador",
+          "addressLocality": "Ecuador",
+          "addressCountry": "AR"
+        },
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Para dormir bien",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "WiFi libre",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Zona céntrica",
+            "value": true
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Tienen WiFi?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, WiFi gratis en todo el lugar. Subí las fotos sin problema."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿La zona es segura?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, es una zona tranquila. Los viajeros la recomiendan."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Hay lugar para guardar equipaje?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, podés dejar las valijas antes del check-in o después del check-out."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Hay toallas?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Consultanos, generalmente tenemos para prestar."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Está cerca del centro?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Escribinos y te confirmamos la distancia exacta y cómo llegar desde el terminal o el aeropuerto."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

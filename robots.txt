@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://milton-inn-hotel---salinas.vercel.app/sitemap.xml
